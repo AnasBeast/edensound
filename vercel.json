@@ -1,0 +1,11 @@
+{
+    "rewrites": [
+      {"source": "/login", "destination": "https://socialraw-production.up.railway.app/login"},
+      {"source": "/signup","destination": "https://socialraw-production.up.railway.app/signup"},
+      {"source": "/uploadProfileImage","destination": "https://socialraw-production.up.railway.app/uploadProfileImage"},
+      {"source": "/userprofile","destination": "https://socialraw-production.up.railway.app/userprofile"},
+      {"source": "/updateProfile","destination": "https://socialraw-production.up.railway.app/updateProfile"},
+      {"source": "/addpost","destination": "https://socialraw-production.up.railway.app/addpost"},
+      {"source": "/getNewsfeed","destination": "https://socialraw-production.up.railway.app/getNewsfeed"}
+    ]
+  }
